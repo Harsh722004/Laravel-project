@@ -20,8 +20,10 @@ This project is a **Restaurant Management System** built using Laravel. It provi
 ## Demo
 Check out the live demo of the project: [Restaurant Management System Demo](https://restaurant.chrys-online.com/)
 
-![Screenshot](documentation/demo-main-site.png)
-![Screenshot](documentation/demo-admin-dashboard.png)
+[![Screenshot](documentation/demo-main-site.png)](https://github.com/Vinaykashyap1/laravel-restaurant-main/blob/main/documentation/demo-main-site.png)![image](https://github.com/user-attachments/assets/f812c22d-2f03-4d3d-b755-fe4d333dc61d)
+
+[![Screenshot](documentation/demo-admin-dashboard.png)
+](https://github.com/Vinaykashyap1/laravel-restaurant-main/blob/main/documentation/demo-admin-dashboard.png)![Uploading image.png…]()
 
 ---
 
